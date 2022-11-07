@@ -29,8 +29,8 @@ void draw()
     glColor3f(1.0, 0.0, 0.0);
     glVertex2f(0.5, 0.6);
     glVertex2f(0.7, 0.8);
-
-    glColor3f(0.0, 1.0, 0.0);
+//komendesu
+    glColor3f(1.0, 1.0, 0.0);
     glVertex2f(0.7, 0.8);
     glVertex2f(0.3, 0.8);
 
