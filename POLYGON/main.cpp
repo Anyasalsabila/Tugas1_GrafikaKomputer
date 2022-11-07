@@ -6,7 +6,7 @@
 #endif
 
 #include <stdlib.h>
-
+//ini komen
 void draw()
 {
     glClear(GL_COLOR_BUFFER_BIT);
